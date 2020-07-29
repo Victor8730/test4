@@ -6,7 +6,7 @@
 2. [GroupByOwner](#GroupByOwner)
 3. [Thesaurus](#Thesaurus)
 4. [OddNumbers](#OddNumbers)
-5. [Invert Binary Tree](#Invert Binary Tree)
+5. [Invert Binary Tree](#Invert-Binary-Tree)
 
     
 ## Palindrom
@@ -59,7 +59,8 @@ var_dump(FileOwners::groupByOwners($files));
  ```
  [:arrow_up:Список](#Список)
  ____
-##Thesaurus
+ 
+## Thesaurus
 
 A thesaurus contains words and synonyms for each word. Below is an example of a
 data structure that defines a thesaurus:
